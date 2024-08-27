@@ -1,4 +1,4 @@
-# Engenharia-Telecom 📚 
+# Engenharia de Telecomunicações 📚 
 
 Este repositório contém links para os repositórios de algumas disciplinas do curso de Engenharia de Telecomunicações do IFSC:
 
