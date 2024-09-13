@@ -7,7 +7,8 @@ Este repositório contém links para os repositórios de algumas disciplinas do 
 - [CAN](https://github.com/luizakuze/CAN) - Cálculo Numérico
 - [PRG1](https://github.com/luizakuze/PRG1) - Programação 1
 - [PRG2](https://github.com/luizakuze/PRG2) - Programação 2
-
+- [EEP](https://github.com/luizakuze/EEP) - Estatística e Probabilidade
+  
 Este é o meu desenvolvimento no curso até o momento:
 
 ![Disciplinas](./images/disciplinas.png)
